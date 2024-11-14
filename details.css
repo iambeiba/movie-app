@@ -1,0 +1,44 @@
+body {
+    background-color: #e3eefd;
+}
+
+#main {
+    max-width: 600px;
+    margin: auto;
+}
+
+.back {
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: gray;
+    align-content: center;
+}
+
+.title {
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 34px;
+}
+
+.main-img {
+    width: 400px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.movie-description {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    max-width: 400px;
+}
+.description p{
+    font-size: 16px;
+    margin-top: 5px;
+}
